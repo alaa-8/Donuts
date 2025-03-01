@@ -7,6 +7,7 @@
 
 body {
     text-align: center;
+   display: grid;
    
        color: #333;
     
@@ -136,28 +137,7 @@ nav ul li a:active{
     object-fit: cover;
     border-radius: 50%;
 }
-/*
-.rewards {
-    padding: 50px 20px;
-}
 
-.rewards img {
-    width: 150px;
-    margin-top: 20px;
-}
-
-input {
-    padding: 10px;
-    border-radius: 20px;
-    border: 1px solid #ccc;
-    margin: 10px 0;
-}
-
-.catering {
-    background: #f8f8f8;
-    padding: 50px 20px;
-}
-*/
 footer {
     background: #f5dce4;
     color: white;
